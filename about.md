@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-description: This is what I do.
 background: '/img/bg-about.jpg'
 ---
 <img src="\img\dp.jpeg" alt="Profile Picture" class = "center1"/>
