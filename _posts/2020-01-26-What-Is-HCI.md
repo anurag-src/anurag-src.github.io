@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is HCI?"
-subtitle: "My take on how I would explain the field to newcomers"
+subtitle: "My take on explaining the field to newcomers"
 date: 2020-01-26 23:45:13 -0400
 background: '/img/posts/HCIBG.jpg'
 ---
