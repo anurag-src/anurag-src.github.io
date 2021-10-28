@@ -2,7 +2,7 @@
 layout: post
 title: "How To Get Into HCI As A Field?"
 subtitle: "Some tips on how to start exploring the field for newcomers"
-date: 2020-12-20 23:45:13 -0400
+date: 2020-09-09 23:45:13 -0400
 background: '/img/posts/HCIBG.jpg'
 ---
 This is best viewed as a continuation to my previous post [“What Is HCI?”](https://anurag-src.github.io/2020/01/27/What-Is-HCI.html). I hope I’ve made it clear how diverse and multidisciplinary HCI can be as a field, but this also brings up one more thing to keep in mind. There is not really a concrete way to start exploring HCI as a field. It’s a lot more straightforward to get started with fields like computer science when one can just say “start off by learning programming”, but for HCI,it’s usually something that someone explores after building off a primary field that they can apply HCI research to like psychology, design or computer science. For example, I have met HCI researchers that have started off in computer science and also as design students to then migrate into HCI and learn the basics of other fields. It is possible, but it is a lot less concrete than other fields in my opinion. However, HCI shares a common trait with any field of study in that getting knowledgeable and familiar with it requires hard work and time. The amount of time and effort can be alleviated with the right resources. Here are some resources and tips I have found useful so far as an HCI student.
