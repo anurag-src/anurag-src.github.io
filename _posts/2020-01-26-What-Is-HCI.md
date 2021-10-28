@@ -1,8 +1,15 @@
 ---
 layout: post
 title: "What is HCI?"
-subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
+subtitle: "My take on how I would explain the field to newcomers"
 date: 2020-01-26 23:45:13 -0400
-background: '/img/posts/01.jpg'
+background: '/img/posts/HCIBG.jpg'
 ---
-blah blah blah
+Whenever my family or friends ask me about what field of research I’m interested in, I find myself pausing for a bit. How exactly do I explain what Human Computer Interaction (HCI) is to them? It’s quite an amusing conundrum to me; it’s arguably one of the more pervasive fields of computer science with respect to its influence on our daily life yet it's also quite difficult to meaningfully convey the impact of the field in a few sentences. This article (read rant) about HCI is less about the specifics and the history of the field and more a brief and simple breakdown for newcomers. It is also my attempt to convey how I wish it was explained to me.
+
+## So what is HCI?
+The most important thing about HCI as a field you need to understand is its interdisciplinary aspect. The hint is in the name itself, Human Computer Interaction. It’s the study of how humans interact with computers (although it has expanded to include all forms of information technology, not just computers). I ask you to consider for a moment how one could study the interaction between a user and a computer. You’re likely to come to the conclusion that there are many ways to do so. You could do it from a physical interface angle : in what way does the user perceive the technology physically? You could do it from a psychological angle : what affects the way the user feels about their interaction with the technology? Similarly there are countless more ways to understand and study the interaction between users and technologies. Once you understand this, it opens up another angle of understanding what HCI is : the intersection of all these fields pertaining to the study of such interactions. This is one of the more popular and simpler ways of explaining HCI; you'll see a lot of venn diagrams online describing HCI as an intersection of three or more fields. 
+
+![HCI](/img/posts/HCI.jpg)
+
+While HCI started out primarily concerned with the computer science academia sphere, it has grown to become more diverse and broad. Now, anything that comes under its constituent disciplines concerning information technology interactions comes under HCI. HCI roles can range from UI/UX designers in the industry to Artificial Intelligence professors. An example of a popular HCI research topic is security and privacy. For example, designing a prediction model to help users manage their app privacy setting comes under machine learning, but it also comes under HCI. Similarly, UX researchers conducting user research on the feedback of an app’s feature is also HCI. Which brings me back to the dilemma that started this in the first place, it can be difficult to summarize a field that encompasses such varying spheres; furthermore it can be even more cumbersome to dispel someone's misconception of what HCI is. To some, HCI is the same as UI/UX research; to others it is pursuing accessible design to the less-abled. It is all of these and none of these. It can be a difficult concept to grasp, but the more familiar you become with the wide variety of HCI research, the more complete your understanding will be.
