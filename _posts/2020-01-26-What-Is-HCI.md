@@ -5,10 +5,10 @@ subtitle: "My take on how I would explain the field to newcomers"
 date: 2020-01-26 23:45:13 -0400
 background: '/img/posts/HCIBG.jpg'
 ---
-## The dilemma
+## The Dilemma
 Whenever my family or friends ask me about what field of research I’m interested in, I find myself pausing for a bit. **How exactly do I explain what Human Computer Interaction (HCI) is to them?** It’s quite an amusing conundrum to me; it’s arguably one of the more pervasive fields of computer science with respect to its influence on our daily life yet it's also quite difficult to meaningfully convey the impact of the field in a few sentences. This article (read rant) about HCI is less about the specifics and the history of the field and more a brief and simple breakdown for newcomers. It is also my attempt to convey how I wish it was explained to me.
 
-## So what is HCI?
+## So What Is HCI?
 The most important thing about HCI as a field you need to understand is its interdisciplinary aspect. The hint is in the name itself, Human Computer Interaction. It’s the study of how humans interact with computers (although it has expanded to include all forms of information technology, not just computers). I ask you to consider for a moment how one could study the interaction between a user and a computer. You’re likely to come to the conclusion that there are many ways to do so. You could do it from a physical interface angle : in what way does the user perceive the technology physically? You could do it from a psychological angle : what affects the way the user feels about their interaction with the technology? Similarly there are countless more ways to understand and study the interaction between users and technologies. Once you understand this, it opens up another angle of understanding what HCI is : the intersection of all these fields pertaining to the study of such interactions. This is one of the more popular and simpler ways of explaining HCI; you'll see a lot of venn diagrams online describing HCI as an intersection of three or more fields. 
 
 ![HCI](/img/posts/HCI.jpg)
