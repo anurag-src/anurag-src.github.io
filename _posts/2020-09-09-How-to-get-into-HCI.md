@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How To Get Into HCI As A Field?"
-subtitle: "Some tips on how to start exploring the field for newcomers"
+title: "Exploring HCI"
+subtitle: "How I explore the multidisciplinary facets of HCI"
 date: 2020-09-09 23:45:13 -0400
 background: '/img/posts/HCIBG.jpg'
 ---
