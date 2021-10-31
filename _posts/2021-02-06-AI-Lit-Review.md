@@ -14,7 +14,7 @@ background: '/img/bg-post.jpg'
 
 ##### 4. [References](#References)
 
-<br></br>
+<br>
 
 ## <a name="Introduction"></a>Introduction
 One of the biggest advantages of Neural Networks over other machine learning algorithms is that feature extraction is part of the algorithmic process, in other algorithms, there needs to be a distinct selections of which features are important, whereas for neural networks, the weights assigned by the algorithm will eventually reflect which features were important for the output. They are also highly proficient at modelling non-linear complex relationships efficiently. Because of its generalization ability, Neural Networks are highly useful for unseen data as well once it has been properly trained. Due to all these factors, Neural Networks are used extensively in research involving forecasting, image recognition and more. In this literature review, the primary focus will be on Neural Networks use in the medical and healthcare field specifically.
