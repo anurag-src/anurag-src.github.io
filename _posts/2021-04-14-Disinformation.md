@@ -57,14 +57,67 @@ The questionnaire was divided into two broad sections.The first, a section for d
 
 The second section is meant to actually gauge how susceptible the user is to sharing things based on a set of headlines which vary across the set of variables we defined after the literature review, and to determine whether these results fall in line with our assumptions or make a set of guidelines based on the novel response data we get. The section would consist of headlines that mapped to a variable from the set that was determined to contribute to the spreading of false news. For each variable, there would usually be two sets of opposing headlines along the variable, sometimes one would be true and one would be false. For example, for a clickbait factor, a set of true and fake headlines for clickbait and non-clickbait headlines were constructed. A table below has been given to give a better idea on which variables we tested and how the set of headlines varied across them. The users were given questions about how much trust they attributed to the headlines as well as what action they would take (Like sharing to someone, ignoring and so on). The results from the survey will be used to construct guidelines for better information system design.
 
-| Variable                 | Variation                                                                                                                                                                                                                              | Both true and fake headlines given? (Yes or No) |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Font and colour          | Professional font in black and white colour as opposed to a playful font in loud colours                                                                                                                                               | No                                              |
-| Clickbait factor         | One headline written in a clickbait manner to and another with the same content written in a neutral manner                                                                                                                            | Yes                                             |
-| Nuance and divisiveness  | A set of three headlines were written with different stances on a recent government initiative. Two were written in a conclusive way (saying that the initiative was good or bad) and one was written in a nuanced and neutral manner. | No.                                             |
-| Believability            | Two sets of fake headlines. One that is written trying to use science as a basis, the other with no sense of proof in an unfounded manner.                                                                                             | No                                              |
-| Wording and vocabulary   | One headline written using technical terms and one written in an easy to understand manner.                                                                                                                                            | No                                              |
-| Characters               | A set of quotes, each by different sources. One is from an unspecified source, the other is from a well known source or person                                                                                                         | No                                              |
-| Value sensitive - Faith  | Two memes were generated, one that directly appealed to a sense of faith in a person and the other does not.                                                                                                                           | No                                              |
-| Value sensitive - Money  | One headline directly mentions a monetary value, the other is one that just mentions an insurance plan                                                                                                                                 | No                                              |
-| Value sensitive - Family | Two headlines were written, one which mentions a remedy to protect the reader's family, and the other does not mention of family.                                                                                                      | No                                              |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Variable</th>
+    <th class="tg-0pky">Variation</th>
+    <th class="tg-0pky">Both true and fake headlines given? (Yes or No)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Font and colour</td>
+    <td class="tg-0pky">Professional font in black and white colour as opposed to a playful font in loud colours </td>
+    <td class="tg-0pky">No</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Clickbait factor</td>
+    <td class="tg-0pky">One headline written in a clickbait manner to and another with the same content written in a neutral manner</td>
+    <td class="tg-0pky">Yes</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nuance and divisiveness</td>
+    <td class="tg-0pky">A set of three headlines were written with different stances on a recent government initiative. Two were written in a conclusive way (saying that the initiative was good or bad) and one was written in a nuanced and neutral manner.</td>
+    <td class="tg-0pky">No.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Believability</td>
+    <td class="tg-0pky">Two sets of fake headlines. One that is written trying to use science as a basis, the other with no sense of proof in an unfounded manner.</td>
+    <td class="tg-0pky">No</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Wording and vocabulary</td>
+    <td class="tg-0pky">One headline written using technical terms and one written in an easy to understand manner.</td>
+    <td class="tg-0pky">No</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Characters</td>
+    <td class="tg-0pky">A set of quotes, each by different sources. One is from an unspecified source, the other is from a well known source or person</td>
+    <td class="tg-0pky">No</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Value sensitive - Faith</td>
+    <td class="tg-0pky">Two memes were generated, one that directly appealed to a sense of faith in a person and the other does not.</td>
+    <td class="tg-0pky">No</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Value sensitive - Money</td>
+    <td class="tg-0pky">One headline directly mentions a monetary value, the other is one that just mentions an insurance plan</td>
+    <td class="tg-0pky">No</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Value sensitive - Family</td>
+    <td class="tg-0pky">Two headlines were written, one which mentions a remedy to protect the reader's family, and the other does not mention of family.</td>
+    <td class="tg-0pky">No</td>
+  </tr>
+</tbody>
+</table>
