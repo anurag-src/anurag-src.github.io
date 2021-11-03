@@ -14,4 +14,4 @@ background: '/img/posts/covid/bg1.jpg'
 </a>
 </span>
 
-##### The Project Brief (Literature review, user personas, features and wireframes) and Prototype (Adobe XD) are linked above .
+##### The Project Brief (Literature review, user personas, features, wireframes and user research) and Prototype (Adobe XD) are linked above.
