@@ -3,7 +3,7 @@ layout: post
 title: "Anatomy of Disinformation"
 subtitle: "A design oriented study on the factors influencing the spread of Disinformation in information technologies"
 date: 2021-04-14 23:45:13 -0400
-background: '/img/bg-post.jpg'
+background: '/img/disinformation/bg.jpg'
 ---
 # Contents
 
