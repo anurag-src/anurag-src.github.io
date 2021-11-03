@@ -134,18 +134,18 @@ Currently, the English survey has around 30 responses. Using the data gathered f
 * 25 of the users identified as frequent users of social media and 22 cited it as a source of news for them.
 * The most used social media applications by the users were WhatsApp, Instagram, YouTube and Facebook in descending order.
 
-<img src="/img/posts/disinformation/piechart.png" alt="Age Summary" class = "center1"/>
+<img src="/img/posts/disinformation/piechart.PNG" alt="Age Summary" class = "center1"/>
 <br>
-<img src="/img/posts/disinformation/barchart1.png" alt="New Source Summary" class = "center1"/>
+<img src="/img/posts/disinformation/barchart1.PNG" alt="New Source Summary" class = "center1"/>
 
 **Analysis of the data :**
 For each headline or piece of information of the second section, we gave the users four options to associate a level of trust with the article of information : high, moderate, low and depending on the source. We assigned a numerical value of 1, 0.5,-1 and 0 to them respectively if that option was chosen. The total values for each user were summed and averaged to give what we term as the trust value of that user. We graphed these values for the users against certain variables of the users, namely age, gender and education as of now.
 
-<img src="/img/posts/disinformation/linechart1.png" alt="Gender vs Avg Rating" class = "center1"/>
+<img src="/img/posts/disinformation/linechart1.PNG" alt="Gender vs Avg Rating" class = "center1"/>
 <br>
-<img src="/img/posts/disinformation/linechart2.png" alt="Age vs Avg Rating" class = "center1"/>
+<img src="/img/posts/disinformation/linechart2.PNG" alt="Age vs Avg Rating" class = "center1"/>
 <br>
-<img src="/img/posts/disinformation/linechart3.png" alt="Education Level vs Avg Rating" class = "center1"/>
+<img src="/img/posts/disinformation/linechart3.PNG" alt="Education Level vs Avg Rating" class = "center1"/>
 
 From the data gathered from the users, we noticed that on average, males tended to have a higher trust value than females. We also found that the lowest trust values tended to land in the age group of 18-30, perhaps this is due to their abundance of participation in social circles, both online and offline. 
 
@@ -154,12 +154,21 @@ The biggest tasks ahead as of right now are mainly gathering more data, it is di
 
 ## <a name="References"></a>References
 **[1] : https://reports.weforum.org/global-risks-2018/digital-wildfires/**
+
 **[2] : Del Vicario, Michela, Alessandro Bessi, Fabiana Zollo, Fabio Petroni, Antonio Scala, Guido Caldarelli, H. Eugene Stanley, and Walter Quattrociocchi. "The spreading of misinformation online." Proceedings of the National Academy of Sciences 113, no. 3 (2016): 554-559.**
+
 **[3] : Vosoughi, Soroush, Deb Roy, and Sinan Aral. "The spread of true and false news online." Science 359, no. 6380 (2018): 1146-1151.**
+
 **[4] : Nickerson, Raymond S. "Confirmation bias: A ubiquitous phenomenon in many guises." Review of general psychology 2, no. 2 (1998): 175-220.**
+
 **[5] : https://www.oxfordlearnersdictionaries.com/us/definition/english/echo-chamber**
+
 **[6] : Martel, Cameron, Gordon Pennycook, and David G. Rand. "Reliance on emotion promotes belief in fake news." Cognitive research: principles and implications 5, no. 1 (2020): 1-20.**
+
 **[7] : Brady, William J., Julian A. Wills, John T. Jost, Joshua A. Tucker, and Jay J. Van Bavel. "Emotion shapes the diffusion of moralized content in social networks." Proceedings of the National Academy of Sciences 114, no. 28 (2017): 7313-7318.**
+
 **[8] :  Singh, Nayanika, and S. K. Srivastava. “Impact of Colors on the Psychology of Marketing — A Comprehensive over View.” Management and Labour Studies 36, no. 2 (May 2011): 199–209.** 
+
 **[9] : Kim, Dae-Young. "The interactive effects of colors on visual attention and working memory: In case of images of tourist attractions." (2010).**
+
 **[10] :   Scacco, Joshua M, and Ashley Muddiman. “The Curiosity Effect: Information Seeking in the Contemporary News Environment.” New Media & Society 22, no. 3 (March 2020): 429–48.**
