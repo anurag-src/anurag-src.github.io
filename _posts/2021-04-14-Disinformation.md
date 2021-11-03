@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anatomy of Disinformation"
-subtitle: "A summary and review of the paper “Modeling Users’ Mobile App Privacy Preferences: Restoring Usability in a Sea of Permission Settings” presented by Jialiu Lin et al. at USENIX SOUPS 2014"
+subtitle: "A design oriented study on the factors influencing the spread of Disinformation in information technologies"
 date: 2021-04-14 23:45:13 -0400
 background: '/img/bg-post.jpg'
 ---
@@ -11,7 +11,7 @@ background: '/img/bg-post.jpg'
 
 ##### 2. [Related Work](#RelatedWork)
 
-##### 3. [Methodology](#Conclusion)
+##### 3. [Methodology](#Methodology)
 
 ##### 4. [Results](#Results)
 
@@ -20,13 +20,13 @@ background: '/img/bg-post.jpg'
 <br>
 
 ## <a name="Introduction"></a>Introduction
-In today's day and age, where most of our interaction is digital, the use of such a tool that we regularly use poses significant threat and harm to our society if done improperly, regardless of intent. Digital misinformation and disinformation has become so rampant in online cultures like social media and online news that it is listed by the WEF (World Economic Forum) as one of the main threats to human society[1]. 
+In today's day and age, where most of our interaction is digital, the use of such a tool that we regularly use poses significant threat and harm to our society if done improperly, regardless of intent. Digital misinformation and disinformation has become so rampant in online cultures like social media and online news that it is listed by the WEF (World Economic Forum) as one of the main threats to human society **[1]**. 
 
-Misinformation is false or inaccurate information, especially that which is intended to deceive. With the ongoing COVID-19 pandemic, in the present society more than ever, we must not only attempt to curb the spread of misinformation and disinformation, but we must attempt to design better systems with the intent of conveying clear concise facts to the public as fluently as possible from concerned and trustworthy bodies, this can be a monumental task given the fact that false news tends to spread quicker than true news[3]. 
+Misinformation is false or inaccurate information, especially that which is intended to deceive. With the ongoing COVID-19 pandemic, in the present society more than ever, we must not only attempt to curb the spread of misinformation and disinformation, but we must attempt to design better systems with the intent of conveying clear concise facts to the public as fluently as possible from concerned and trustworthy bodies, this can be a monumental task given the fact that false news tends to spread quicker than true news **[3]**. 
 
 To attempt to tackle this, we first analysed the possible reasons and factors for the spread of false news. This is then to be utilised to construct a survey to collect the relevant data in a specific selected user demographic through user research processes. The data from the research conducted will then be used to construct and design the guidelines and campaigns to combat the spread of misinformation and disinformation.
 
-For the context of this research we chose to specifically focus on people within the age group of 18-23, namely students undergoing their undergraduate education. We attempted to have a varied user base for the research along different axes like gender, age, language, location and economic background.
+For the context of this research we chose to specifically focus on people within the age group of 18-23, namely students undergoing their undergraduate education. We attempted to have a varied user base for the research along different axes like gender, age, language, location and economic background. This project was done under the advice of [Professor Dipanjan](https://www.bits-pilani.ac.in/hyderabad/dipanjan/Profile)
 
 ## <a name="RelatedWork"></a>Related Work
 There are many possible reasons for why misinformation spreads and why people tend to accept some things over others, regardless of whether it is actually true or not. Being knowledgeable of these factors is the first step to combating them and designing better information systems. We went through related works regarding factors that contribute to the spread of misinformation as such and have listed them and their relevant sources below
@@ -152,23 +152,25 @@ From the data gathered from the users, we noticed that on average, males tended 
 **Conclusion and Future Scope :**
 The biggest tasks ahead as of right now are mainly gathering more data, it is difficult to make conclusive correlations from small sample sizes. We plan to not only broaden the reach of the original survey by distributing the Hindi translated survey, but also by splitting the variables in the second section to make a set of forms that we can distribute and gather more responses with, considering that the forms in this set will be of shorter length compared to the original forms used. These forms would be distributed using a randomizer on a simple HTML page to hand out the link of one of the google forms in the set, which is still in development. Once we have enough data, analysing it using advanced statistical methods and utilizing the results to construct guidelines and theories to design around to combat the spread of disinformation would be the final step.
 
+We were only able to study simple factors in our limited time, but we aim to eventually aim to study the correlations of all our tabulated factors in the future.
+
 ## <a name="References"></a>References
-**[1] : https://reports.weforum.org/global-risks-2018/digital-wildfires/**
+**[1]https://reports.weforum.org/global-risks-2018/digital-wildfires/**
 
-**[2] : Del Vicario, Michela, Alessandro Bessi, Fabiana Zollo, Fabio Petroni, Antonio Scala, Guido Caldarelli, H. Eugene Stanley, and Walter Quattrociocchi. "The spreading of misinformation online." Proceedings of the National Academy of Sciences 113, no. 3 (2016): 554-559.**
+**[2]Del Vicario, Michela, Alessandro Bessi, Fabiana Zollo, Fabio Petroni, Antonio Scala, Guido Caldarelli, H. Eugene Stanley, and Walter Quattrociocchi. "The spreading of misinformation online." Proceedings of the National Academy of Sciences 113, no. 3 (2016): 554-559.**
 
-**[3] : Vosoughi, Soroush, Deb Roy, and Sinan Aral. "The spread of true and false news online." Science 359, no. 6380 (2018): 1146-1151.**
+**[3]Vosoughi, Soroush, Deb Roy, and Sinan Aral. "The spread of true and false news online." Science 359, no. 6380 (2018): 1146-1151.**
 
-**[4] : Nickerson, Raymond S. "Confirmation bias: A ubiquitous phenomenon in many guises." Review of general psychology 2, no. 2 (1998): 175-220.**
+**[4]Nickerson, Raymond S. "Confirmation bias: A ubiquitous phenomenon in many guises." Review of general psychology 2, no. 2 (1998): 175-220.**
 
-**[5] : https://www.oxfordlearnersdictionaries.com/us/definition/english/echo-chamber**
+**[5]https://www.oxfordlearnersdictionaries.com/us/definition/english/echo-chamber**
 
-**[6] : Martel, Cameron, Gordon Pennycook, and David G. Rand. "Reliance on emotion promotes belief in fake news." Cognitive research: principles and implications 5, no. 1 (2020): 1-20.**
+**[6]Martel, Cameron, Gordon Pennycook, and David G. Rand. "Reliance on emotion promotes belief in fake news." Cognitive research: principles and implications 5, no. 1 (2020): 1-20.**
 
-**[7] : Brady, William J., Julian A. Wills, John T. Jost, Joshua A. Tucker, and Jay J. Van Bavel. "Emotion shapes the diffusion of moralized content in social networks." Proceedings of the National Academy of Sciences 114, no. 28 (2017): 7313-7318.**
+**[7]Brady, William J., Julian A. Wills, John T. Jost, Joshua A. Tucker, and Jay J. Van Bavel. "Emotion shapes the diffusion of moralized content in social networks." Proceedings of the National Academy of Sciences 114, no. 28 (2017): 7313-7318.**
 
-**[8] :  Singh, Nayanika, and S. K. Srivastava. “Impact of Colors on the Psychology of Marketing — A Comprehensive over View.” Management and Labour Studies 36, no. 2 (May 2011): 199–209.** 
+**[8]Singh, Nayanika, and S. K. Srivastava. “Impact of Colors on the Psychology of Marketing — A Comprehensive over View.” Management and Labour Studies 36, no. 2 (May 2011): 199–209.** 
 
-**[9] : Kim, Dae-Young. "The interactive effects of colors on visual attention and working memory: In case of images of tourist attractions." (2010).**
+**[9]Kim, Dae-Young. "The interactive effects of colors on visual attention and working memory: In case of images of tourist attractions." (2010)**
 
-**[10] :   Scacco, Joshua M, and Ashley Muddiman. “The Curiosity Effect: Information Seeking in the Contemporary News Environment.” New Media & Society 22, no. 3 (March 2020): 429–48.**
+**[10]Scacco, Joshua M, and Ashley Muddiman. “The Curiosity Effect: Information Seeking in the Contemporary News Environment.” New Media & Society 22, no. 3 (March 2020): 429–48.**
